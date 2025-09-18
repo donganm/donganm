@@ -3,7 +3,6 @@
   <img src="coding.png" alt="Profile Icon" width="120">
 </p> -->
 
-<h1 align="center">👋 Dong Anh ne</h1>
 <p align="center">
   🎯 Designing the flow, watching it run.. 
 </p>

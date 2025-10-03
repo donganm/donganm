@@ -7,8 +7,6 @@
   🎯 Designing the flow, watching it run.. 
 </p>
 
-![header](hehe.jpg)
-
 ---
 
 
